@@ -33,12 +33,6 @@ O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros p
 
 
 
-### 📝 Lista de Projetos </h2>
-✔️ Baixe o projeto do módulo 1
-
-
-
- 
  ### 🤝 Contribuindo </h2>
 
  _Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
