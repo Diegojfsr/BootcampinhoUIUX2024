@@ -28,8 +28,8 @@ O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros p
    ✅ Módulo 8 – Finalização
 
  
-### 📝 Lista de Projetos </h2>
-  ☑️ Projeto do módulo 1
+### 📝 Projeto desenvolvido durante o curso
+  <!-- ☑️ Projeto do módulo 1 -->
 
 
 
