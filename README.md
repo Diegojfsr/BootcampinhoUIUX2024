@@ -10,8 +10,8 @@ O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros p
 > 💙 Criar um projeto do início ao fim  
 > 💙 Honestidade, diversão e um conteúdo preparado com muito amor
 
-> Boooora conferir? 😄  
-> [🌐 BootcampinhoUIUX](https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design)
+Boooora conferir? 😄  
+[🌐 BootcampinhoUIUX](https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design)
 
 ---
 ---
