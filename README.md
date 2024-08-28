@@ -3,7 +3,7 @@
 
 O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros passos de sua jornada. Formulado com o objetivo de ser um ponto de partida o curso é dividido entre etapas teóricas e práticas.
 
-### O que esperar do curso
+### 🤩 O que esperar do curso
 > 💙 Indicações de +100 materiais extras  
 > 💙 🐮 Desafios de Design do Alfred  
 > 💙 🤳 Desafios de Social  
@@ -15,7 +15,7 @@ O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros p
 
 ---
 ---
-### Guia Rápido
+### 🚦 Guia Rápido
 <!-- Tag centralizadora das Badges -->
 <p float="center">
 
@@ -28,17 +28,6 @@ O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros p
 
 ---
 ---
-
-<!-- Tag centralizadora das Badges -->
-<p float="center">
-  
-  [<img src="https://img.shields.io/badge/👨🏻‍💻 Módulos Assistidos-12100E?style=for-the-badge&logo=About&logoColor=white" height="40"></a>](https://)
-  [<img src="https://img.shields.io/badge/🐮 Desafios do Alfred-12100E?style=for-the-badge&logo=About&logoColor=white" height="40"></a>](https://)
-  [<img src="https://img.shields.io/badge/🤳 Desafios de Social-12100E?style=for-the-badge&logo=About&logoColor=white" height="40"></a>](https://)
-  [<img src="https://img.shields.io/badge/🚩 Projeto Final-12100E?style=for-the-badge&logo=About&logoColor=white" height="40"></a>](https://)
-
-
-</p>
 
 
 
