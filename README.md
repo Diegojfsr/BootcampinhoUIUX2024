@@ -1,7 +1,7 @@
 
 ![](https://github.com/Diegojfsr/BootcampinhoUIUX2024/blob/main/Img/CapaBootcampinho.jpg)
 
-_O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros passos de sua jornada. Formulado com o objetivo de ser um ponto de partida o curso é dividido entre etapas teóricas e práticas._
+O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros passos de sua jornada. Formulado com o objetivo de ser um ponto de partida o curso é dividido entre etapas teóricas e práticas.
 
 ### O que esperar do curso
 > 💙 Indicações de +100 materiais extras  
@@ -10,19 +10,34 @@ _O Bootcampinho Gratuito UI/UX Design tem como objetivo te ajudar nos primeiros 
 > 💙 Criar um projeto do início ao fim  
 > 💙 Honestidade, diversão e um conteúdo preparado com muito amor
 
-Boooora conferir? 😄  
-[🌐 BootcampinhoUIUX](https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design)
+> Boooora conferir? 😄  
+> [🌐 BootcampinhoUIUX](https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design)
 
+---
+---
+### Guia Rápido
+<!-- Tag centralizadora das Badges -->
+<p float="center">
+
+  [<img src="https://img.shields.io/badge/👨🏻‍💻 Módulos Assistidos-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
+  [<img src="https://img.shields.io/badge/🐮 Desafios do Alfred-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
+  [<img src="https://img.shields.io/badge/🤳 Desafios de Social-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
+  [<img src="https://img.shields.io/badge/🚩 Projeto Final-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
+
+</p>
+
+---
+---
 
 ### 👨🏻‍💻 Módulos Assistidos 
-☑️ Módulo#1–Apresentação do Bootcampinho UI/UX Design  
-☑️ Módulo#2–Começando um projeto  
-☑️ Módulo#3–Descoberta (Discovery)  
-☑️ Módulo#4–Definição (Define)  
-☑️ Módulo#5–Ideação (Ideate)  
-☑️ Módulo#6–Prototipação (Prototype)  
-☑️ Módulo#7–Testes  
-☑️ Módulo#8–Finalização
+> ☑️ Módulo#1–Apresentação do Bootcampinho UI/UX Design  
+> ☑️ Módulo#2–Começando um projeto  
+> ☑️ Módulo#3–Descoberta (Discovery)  
+> ☑️ Módulo#4–Definição (Define)  
+> ☑️ Módulo#5–Ideação (Ideate)  
+> ☑️ Módulo#6–Prototipação (Prototype)  
+> ☑️ Módulo#7–Testes  
+> ☑️ Módulo#8–Finalização
 
 
 ### 🐮 Desafios do Alfred
@@ -55,7 +70,8 @@ Boooora conferir? 😄
 
  
 ### 🚩 Projeto Final
-  <!-- ☑️ Projeto do módulo 1 -->
+> Em breve>>>
+ 
 
 
 
