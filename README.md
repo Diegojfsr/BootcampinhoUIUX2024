@@ -19,10 +19,10 @@ Boooora conferir? 😄
 <!-- Tag centralizadora das Badges -->
 <p float="center">
 
-  [<img src="https://img.shields.io/badge/👨🏻‍💻 Módulos Assistidos-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
-  [<img src="https://img.shields.io/badge/🐮 Desafios do Alfred-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
-  [<img src="https://img.shields.io/badge/🤳 Desafios de Social-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
-  [<img src="https://img.shields.io/badge/🚩 Projeto Final-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://)
+  [<img src="https://img.shields.io/badge/👨🏻‍💻 Módulos Assistidos-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/Diegojfsr/BootcampinhoUIUX2024/blob/main/BootcampinhoUIUX/ModulosAssistidos/ModulosAssistidos.md)
+  [<img src="https://img.shields.io/badge/🐮 Desafios do Alfred-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/Diegojfsr/BootcampinhoUIUX2024/blob/main/BootcampinhoUIUX/DesafiosAlfred/DesafiosAlfred.md)
+  [<img src="https://img.shields.io/badge/🤳 Desafios de Social-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/Diegojfsr/BootcampinhoUIUX2024/blob/main/BootcampinhoUIUX/DesafioSocial/DesafioSocial.md)
+  [<img src="https://img.shields.io/badge/🚩 Projeto Final-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/Diegojfsr/BootcampinhoUIUX2024/blob/main/BootcampinhoUIUX/ProjetoFinal/ProjetoFinal.md)
 
 </p>
 
