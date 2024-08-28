@@ -26,15 +26,24 @@ Boooora conferir? 😄
 
 
 ### 🐮 Desafios do Alfred
-> ✅ 1.1 Identifique o que é UI e o que é UX Design ✅ 1.2 Separe um local para organizar seus estudos e fazer anotações  
-> ✅ 2.1 Defina um projeto para desenvolver durante o curso ✅ 2.2 Crie um Briefing para seu projeto  
-> ✅ 3.1 Aplique duas ou mais ferramentas de Descoberta ✅ 3.2 Aplique mais uma ferramenta de Descoberta  
-> ✅ 4.1 Organize os dados da sua pesquisa ✅ 4.2 Defina objetivos e problemas centrais da sua pesquisa  
-> ✅ 5.1 Aplique duas ou mais ferramentas de Ideação ✅ 5.2 Escolha até três soluções para o problema e faça wireframes  
-> ✅ 6.1 Recrie três telas de designs já existentes ✅ 6.2 Separe 3 a 5 websites e identifique neles problemas e soluções de usabilidade  
-> ✅ 6.3 Crie um guia de estilos para o seu projeto ✅ 6.4 Crie uma ou duas telas para o seu projeto  
-> ✅ 6.5 Crie todas as telas do seu projeto ✅ 7.1 Defina os fluxos que serão testados com os usuários  
-> ✅ 7.2 Faça os testes de usabilidade do seu projeto ✅ 8.1 Crie um estudo de caso
+> ✅ 1.1 Identifique o que é UI e o que é UX Design  
+> ✅ 1.2 Separe um local para organizar seus estudos e fazer anotações  
+> ✅ 2.1 Defina um projeto para desenvolver durante o curso  
+> ✅ 2.2 Crie um Briefing para seu projeto  
+> ✅ 3.1 Aplique duas ou mais ferramentas de Descoberta  
+> ✅ 3.2 Aplique mais uma ferramenta de Descoberta  
+> ✅ 4.1 Organize os dados da sua pesquisa  
+> ✅ 4.2 Defina objetivos e problemas centrais da sua pesquisa  
+> ✅ 5.1 Aplique duas ou mais ferramentas de Ideação  
+> ✅ 5.2 Escolha até três soluções para o problema e faça wireframes  
+> ✅ 6.1 Recrie três telas de designs já existentes  
+> ✅ 6.2 Separe 3 a 5 websites e identifique neles problemas e soluções de usabilidade  
+> ✅ 6.3 Crie um guia de estilos para o seu projeto  
+> ✅ 6.4 Crie uma ou duas telas para o seu projeto  
+> ✅ 6.5 Crie todas as telas do seu projeto  
+> ✅ 7.1 Defina os fluxos que serão testados com os usuários  
+> ✅ 7.2 Faça os testes de usabilidade do seu projeto  
+> ✅ 8.1 Crie um estudo de caso
 
 ### 🤳 Desafios de Social 
 
