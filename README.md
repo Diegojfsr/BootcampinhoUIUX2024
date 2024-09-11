@@ -15,7 +15,7 @@ Boooora conferir? 😄
 
 ---
 ---
-### 🚦 Guia Rápido
+### 🚦 Guia de Acesso Rápido
 <!-- Tag centralizadora das Badges -->
 <p float="center">
 
