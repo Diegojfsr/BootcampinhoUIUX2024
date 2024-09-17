@@ -84,3 +84,46 @@ Ex.: Pesquisa Qualitativa, Desk research, pesquisa quantitativa.
 4.Como o usuário irá navegar nas páginas?  
 
 
+### 6.2 Prototipação (prototype): usabilidade e composição
+> 🐮 Desafio do Alfred  
+> ☑️ Prototipação: comece a navegar no Figma e tente crie, pelo menos, duas telas do seu projeto.  
+Dica: tente começar o seu projeto de forma estruturada, pensando na criação de variáveis, estilos, componentes e similares.  
+> ☑️ Usabilidade: analise as telas que você criou até o momento e tente melhorar a usabilidade delas.  
+> ☑️ Referências: busque referências de produtos ou pedaços específicos de produtos e veja porque são bons ou ruins. Na medida do possível, e sem copiar, tente aplicar algumas da soluções encontradas no seu protótipo.  
+> ☑️ Prototipação: continue a fazer as telas do seu produto projeto no Figma. Nesse momento, é importante você gerenciar o tempo para conseguir terminar o seu protótipo junto com o término da etapa de prototipação.  
+
+> Desafio Extra (opcional)
+> ☑️ Separe 3 a 5 páginas iniciais de websites famosos (sugiro de ramos diferentes, ex.: e-commerce, busca, portal de notícias,…) e identifique neles o seguinte: 
+> ☑️ De que forma o site utiliza os princípios de alinhamento, contraste, repetição e proximidade?  
+> ☑️ Em geral, o site possui boa usabilidade? Sim? Não? Por quê?  
+> ☑️ Identifique elementos que parecem funcionar bem ou mal.  
+> ☑️ Busque por padrões que se repetem no site (ex.: botões, tipografia, cores, formas…).  
+> ☑️ Sugestão: utilize a extensão GoFullPage para tirar um print da tela inteira, em seguida coleque a imagem em algum programa (XD, Figma,…) e deixe comentários com suas anotações.  
+
+
+### 6.3 Prototipação (prototype): tipografia, cores e mais!
+> 🐮 Desafio do Alfred  
+> ☑️ Guia de Estilos: crie um guia de estilos para seu projeto  
+> ☑️ Imagens: Defina estilo de imagens  
+> ☑️ Ícones: Defina uma família de ícones  
+> ☑️ Cores: sugiro utilizar no máximo 2 ou 3 cores (uma base, e no máximo 2 de destaque).  
+> ☑️ Tipografia: escolha uma família tipográfica com muitos pesos e que combine com seu projeto.  
+> ☑️ Escala tipográfica: Utilize uma escala tipográfica para escolher tamanho de corpo de texto, títulos e outros elementos textuais.  
+> ☑️ Dica: não invente muita moda. Enquanto não estiver seguro(a) com suas habilidades visuais sugiro optar por tipografias conhecidas, utilizar poucas tipografias, poucas cores e assim por diante.  
+> ☑️ Prototipação: continue a fazer as telas do seu produto projeto no Figma. Nesse momento, é importante você gerenciar o tempo para conseguir terminar o seu protótipo junto com o término da etapa de prototipação.  
+
+### 6.4 Prototipação (prototype): acessibilidade
+> 🐮 Desafio do Alfred  
+> ☑️ Prototipação: continue a fazer as telas do seu produto projeto no Figma. Nesse momento, é importante você gerenciar o tempo para conseguir terminar o seu protótipo junto com o término da etapa de prototipação.  
+> ☑️ Acessibilidade: analise com calma as telas criadas até o momento:  
+> ☑️ As telas estão acessíveis?  
+> ☑️ Confira contrastes, tamanho de tipografia, responsividade, texto dos links,…  
+> ☑️ Se preciso, faça as alterações no seu estilo de design até encontrar uma linha de layout consistente para utilizar em todas as telas.  
+
+### 6.5 Prototipação (prototype): como aplicar?
+> 🐮 Desafio do Alfred  
+> ☑️ Prototipação: termine as telas do seu projeto.  
+> ☑️ Organize: organize o arquivo para apresentação, deixe claro os padrões e assim por diante.  
+> ☑️ Acessibilidade de padrões: cuide para manter acessibilidade e padrões entre as telas.  
+> ☑️ Melhore: revise, arrume detalhes, torne o protótipo interativo, adicione animações, entre outros.  
+
