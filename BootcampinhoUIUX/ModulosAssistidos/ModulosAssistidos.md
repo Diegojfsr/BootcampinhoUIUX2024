@@ -43,8 +43,17 @@
 > [Opcional (desatualizada) • 6.1 Prototipação (prototype): o que é? | 35 mins](https://sheisacreative.com.br/bootcampinho/prototipacao-ui-ux-design-2)  
 
 
+### Módulo 7 - Testes
+
+> ✅[7.1 Teste de design: o que é? | 10 mins](https://sheisacreative.com.br/bootcampinho/teste-bootcampinho-ui-ux-design)  
+> ✅[7.2 Teste de design: como aplicar? | 7 mins](https://sheisacreative.com.br/bootcampinho/teste-como-aplicar)  
+> 🔴[LIVE – Dúvidas sobre Testes 20h](https://youtu.be/idJnFSE-hMA)  
 
 
+### Módulo 8 – Finalização
 
-
+> ✅[8.1 Terminei o Bootcampinho UI/UX Design. E agora? | 11 mins](https://sheisacreative.com.br/bootcampinho/depois-curso)  
+> 🔴[LIVE – Dúvidas sobre Próximos Passos 20h](https://youtu.be/ViZuaAIkf1M)  
+> 🚨🚨🚨[Prazo final para entrega do Projeto 7 out.]()  
+> 🔴[LIVE DE GALA – Revelação dos Projetos Vencedores - 14 out. (20h)](https://youtu.be/zXGPujhkYgs)  
 
